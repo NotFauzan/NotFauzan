@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://i.imgur.com/mYJd296.png" height="175px" style="position: relative; left: 330px;"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/mYJd296.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Fauzan <img src="https://bit.ly/3FzRfVz" width="30px"></h1>
 <h3 align="center">I'm a Front-End Web Developer From Indiaaa!</h3>
