@@ -8,13 +8,9 @@
 
 - 💻 I’m a Front-End Web Devloper 
 
-- 🚀 Crypto, NFT & Tech Enthusiast 
+- 🚀 Tech Enthusiast 
 
-- 🎥 I LOOOVE Video Editing **<a target=blank href="https://fazeyyy.page.link/youtube">Some Of My Works ▶️</a>**
-
-- 🧩 Cubing & Quizzing Are My Hobbies! :0
-
-- ✉️ You Can Contact Me Here: **[fsarwer777@gmail.com](mailto:fsarwer777@gmail.com)**
+- ✉️ You Can Contact Me Here: **[fauzansarwer@gmail.com](mailto:fauzansarwer@gmail.com)**
 
 ## 🧑‍💻 Languages That I've Learnt 
 
@@ -53,8 +49,7 @@
 ## Connect with me:
 <p align="left">
 
-<a target=blank href = "https://www.instagram.com/ig_fazeyyy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a target=blank href = "https://fazeyyy.page.link/youtube"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a target=blank href = "https://www.instagram.com/fxuz4n/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a target=blank href = "https://discord.com/users/739432304086351925/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 
 
