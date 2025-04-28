@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/bHk037S.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Fauzan <img src="https://bit.ly/3FzRfVz" width="30px"></h1>
-<h3 align="center">I'm a Front-End Web Developer From Indiaaa!</h3>
+<h3 align="center">I'm a Front-End Web Developer based in India</h3>
 
 
-## 😶 About Meee :)
+## 😶 About Me
 
 - 💻 I’m a Front-End Web Devloper 
 
-- 🚀 Tech Enthusiast 
+- 🚀 Web3 - Ai - Tech Enthusiast 
 
 - ✉️ You Can Contact Me Here: **[fauzansarwer@gmail.com](mailto:fauzansarwer@gmail.com)**
 
-## 🧑‍💻 Languages That I've Learnt 
+## 🧑‍💻 Languages I Know 
 
 <p align="left"> 
     <a target=blank href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
