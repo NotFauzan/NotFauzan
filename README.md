@@ -41,7 +41,6 @@
 <br/>
 <br/>
 
-<a target=blank href="https://github.com/NotFauzan/github-readme-activity-graph"><img alt="Fauzan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NotFauzan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
